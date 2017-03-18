@@ -21,6 +21,5 @@ Requirements
 ------------
 
 * Python3.4+ (asyncio supported)
-* Work on Linux
 
 
