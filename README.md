@@ -4,7 +4,7 @@ Overview
 ------------
 * 集成aiohttp server和client的asyncio框架
 ```shell
-  /homedir
+  /aioserver
      |-/bin
      |   |-path.py #路径配置
      |   |-svr.py  #框架入口，载入业务代码，启动事件循环
